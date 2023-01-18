@@ -1,1 +1,1 @@
-# animated-disco
+# devPSU Discord psu
